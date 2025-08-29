@@ -31,6 +31,11 @@ This project is a .NET console application designed to simulate a simple chemist
   - Number of incorrect answers
 - The result is saved in a file `results.json` inside a folder named with the current date in `ddMMyyyy` format.
 
+### 🔹 View results (`t`)
+- The program searches all result folders
+- Reads `results.json` files
+- Calculates and displays **average**
+
 
 
 
