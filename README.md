@@ -1,7 +1,6 @@
 # 🧪 Chemical Element Quiz (Alkuaine-testi)
 
 ## 📚 Project Overview
-
 This project is a .NET console application designed to simulate a simple chemistry quiz game. 
 
 - Sprint planning and daily stand-ups
@@ -22,6 +21,7 @@ This project is a .NET console application designed to simulate a simple chemist
 
 ### 📊 View Results Mode (`t`)
 
+
 ### 🎮 When the user selects to play (`p`):
 - The program asks 5 questions about chemical elements (randomly chosen from the first 20).
 - Correct answers are read from the `alkuaineet.txt` file.
@@ -35,5 +35,4 @@ This project is a .NET console application designed to simulate a simple chemist
 
 
 🤝 Contribution
-
 This project was developed as a group exercise. Contributions are welcome via pull requests or private repo invitations.
